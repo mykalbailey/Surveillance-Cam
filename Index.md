@@ -2,7 +2,9 @@
 
 By: Mykal Bailey
 
- 
+### September 29, 2017
+
+Created Project Budget[project schedule](https://github.com/mykalbailey/Surveillance-Cam/blob/master/Budget.xlsx)
 
 ### September 20, 2017
 
