@@ -2,6 +2,10 @@
 
 By: Mykal Bailey
 
+### December 07, 2017
+Placard Created
+Video Script Created
+
 ### September 29, 2017
 
 Created [project Budget](https://github.com/mykalbailey/Surveillance-Cam/blob/master/Budget.xlsx)
