@@ -3,7 +3,7 @@
 By: Mykal Bailey
 
 ### December 07, 2017
-Placard Created
+Placard and
 Video Script Created
 
 ### September 29, 2017
