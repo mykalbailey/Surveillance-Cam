@@ -4,7 +4,7 @@ By: Mykal Bailey
 
 ### September 29, 2017
 
-Created [project Budget](https://github.com/mykalbailey/Surveillance-Cam/blob/master/Budget.xlsx)
+Created12 [project Budget](https://github.com/mykalbailey/Surveillance-Cam/blob/master/Budget.xlsx)
 
 ![Image of Budget](https://github.com/mykalbailey/Surveillance-Cam/blob/master/Project%20Budget%20image.PNG)
 
