@@ -2,6 +2,8 @@
 
 By: Mykal Bailey
 
+The SurveillanceCam is a homemade pan and tilt camera that has the ability to remotely observe areas.  It can be used simply as a security camera or even a baby monitor.  Its primary use is to allow remote observation with added ability to take snapshots and record video.  In this build instruction you will be learning the parts needed, how to put them together, and the software needed to run the SurveillanceCam.
+
 ### Components needed
 
 •	Raspberry Pi 3  
