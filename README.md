@@ -4,13 +4,13 @@ By: Mykal Bailey
 
 ### Components needed
 
-•	Raspberry Pi 3. 
-•	Power Supply. 
-•	SD card. 
-•	Raspberry pi Camera module and mount. 
-•	Pan/Tilt Bracket. 
-•	Two servos. 
-•	Connecter wires. 
+•	Raspberry Pi 3.  
+•	Power Supply.  
+•	SD card.  
+•	Raspberry pi Camera module and mount.  
+•	Pan/Tilt Bracket.  
+•	Two servos.  
+•	Connecter wires.  
 
 ### Setting up Raspberry Pi
 
