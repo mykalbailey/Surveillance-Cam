@@ -64,7 +64,7 @@ By: Mykal Bailey
     i.	A video stream from the pi Camera should be available.  
   2.	Setup apache server to host website from raspberry pi by following the instructions found [here](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)  
   3.	Once apache server has completed installation you should be able to access Rpi homepage by opening a browser and entering the IP address of the Raspberry Pi.  
-  4.	Download all files from [here](https://github.com/mykalbailey/Surveillance-Cam/Scripts)  
+  4.	Download all files from [here](https://github.com/mykalbailey/Surveillance-Cam/tree/master/Scripts/Scripts)  
   5.	From Raspberry Pi navigate to /var/www/html  
     a.  Delete index.html  
     b.  From downloads, copy the following files into the directory  
