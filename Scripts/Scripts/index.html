@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Surveillance Cam</title>
+	</head>
+	<body>
+		<H2 align="center">Surveillance Cam</H2>
+		<br>
+			<img src="http://169.254.239.145:8081/" alt="stream unavailable" align="middle">
+			<form action="scenter.php" method="post" target="submission.frame">
+				<input type="submit" value="center" name="btn">
+				<iframe name="submission.frame" hidden></iframe>
+			</form>
+			<form action="sleft.php" method="post" target="submission.frame">
+				<input type="submit" value="left" name="btn">
+				<iframe name="submission.frame" hidden></iframe>
+			</form>
+			<form action="sright.php" method="post" target="submission.frame">
+				<input type="submit" value="right" name="btn">
+				<iframe name="submission.frame" hidden></iframe>
+			</form>
+			<form action="sup.php" method="post" target="submission.frame">
+				<input type="submit" value="up" name="btn">
+				<iframe name="submission.frame" hidden></iframe>
+			</form>
+			<form action="sdown.php" method="post" target="submission.frame">
+				<input type="submit" value="down" name="btn">
+				<iframe name="submission.frame" hidden></iframe>
+			</form>
+	</body>
+
+ </html> 
