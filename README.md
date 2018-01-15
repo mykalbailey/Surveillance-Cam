@@ -4,20 +4,20 @@ By: Mykal Bailey
 
 ### Components needed
 
-•	Raspberry Pi 3
-•	Power Supply
-•	SD card
-•	Raspberry pi Camera module and mount
-•	Pan/Tilt Bracket
-•	Two servos
-•	Connecter wires
+•	Raspberry Pi 3. 
+•	Power Supply. 
+•	SD card. 
+•	Raspberry pi Camera module and mount. 
+•	Pan/Tilt Bracket. 
+•	Two servos. 
+•	Connecter wires. 
 
 ### Setting up Raspberry Pi
 
-•	Download and install the latest version of Raspbian from the instructions[here](https://www.raspberrypi.org/help/noobs-setup/2/)
-•	Configure Wi-Fi settings
-•	SSH into Raspberry pi
-•	From the home directory create and Folder named “sCam” and a subfolder named” code” where you will be storing any code related to the SurveillanceCam
+•	Download and install the latest version of Raspbian from the instructions [here](https://www.raspberrypi.org/help/noobs-setup/2/). 
+•	Configure Wi-Fi settings. 
+•	SSH into Raspberry pi. 
+•	From the home directory create and Folder named “sCam” and a subfolder named” code” where you will be storing any code related to the SurveillanceCam. 
 
 ### Configure Pi and enable Camera support
 
